@@ -2,3 +2,5 @@
 node_modules
 contracts/counter/artifacts/checksums.txt
 .gitignore
+frontend/src/refs.terrain.json
+refs.terrain.json
