@@ -1,2 +1,4 @@
 /target
 node_modules
+contracts/counter/artifacts/checksums.txt
+.gitignore
